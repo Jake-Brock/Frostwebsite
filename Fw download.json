@@ -1,10 +1,10 @@
 {
 "name": "Frostware",
-"version": "2.8",
+"version": "3.0",
 "ApkLink": {
 "32": "",
-"64": "https://www.mediafire.com/file/54xyozt7dyzvwar/FrostWareV2.8.apk/file"
+"64": "https://www.mediafire.com/file/2zouat8yaqyy0v2/FrostWareV3.apk/file"
 },
-"WindowsLink": "",
+"WindowsLink": "https://www.mediafire.com/file/e9td678ncheor2v/FrostWareInstaller.exe/file",
 "discord_invite": ""
 }
