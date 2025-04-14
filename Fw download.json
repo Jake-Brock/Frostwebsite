@@ -1,10 +1,14 @@
 {
-"name": "Frostware",
-"version": "4.0",
-"ApkLink": {
-"32": "",
-"64": "https://www.mediafire.com/file/kuhz6k2qbsd5zml/Frostware+V4.1.apk/file"
-},
-"WindowsLink": "",
-"discord_invite": "https://discord.gg/getfrost"
+    "name": "Frostware",
+    "version": "4.2",
+    "ApkLink": {
+        "32": "",
+        "64": "https://www.mediafire.com/file/kuhz6k2qbsd5zml/Frostware+V4.1.apk/file"
+    },
+    "vng": {
+        "32": "",
+        "64": ""
+    },
+    "WindowsLink": "",
+    "discord_invite": "https://discord.gg/getfrost"
 }
