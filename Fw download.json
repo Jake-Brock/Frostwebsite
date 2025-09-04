@@ -1,15 +1,15 @@
 {
-    "name": "Frostware",
-    "version": "Gen X V3.8",
-    "ApkLink": {
-        "32": "",
-        "64": "https://www.mediafire.com/file/o9lxcvef190r77h/Frostware+Gen-X+V3.8(fixed).apk/file"
-    },
-    "vng": {
-        "32": "",
-        "64": "https://www.mediafire.com/file/o9lxcvef190r77h/Frostware+Gen-X+V3.8(fixed).apk/file"
-    },
-    "WindowsLink": "https://gofile.io/d/d2aGWd",
-    "External": "https://files.catbox.moe/nupf5s.rar",
-    "discord_invite": "https://discord.gg/getfrost"
+  "name": "Frostware",
+  "version": "Gen X V3.8",
+  "ApkLink": {
+    "32": "",
+    "64": "https://www.mediafire.com/file/o9lxcvef190r77h/Frostware+Gen-X+V3.8(fixed).apk/file"
+  },
+  "vng": {
+    "32": "",
+    "64": "https://www.mediafire.com/file/o9lxcvef190r77h/Frostware+Gen-X+V3.8(fixed).apk/file"
+  },
+  "WindowsLink": "https://gofile.io/d/d2aGWd",
+  "ExternalLink": "https://files.catbox.moe/nupf5s.rar",
+  "discord_invite": "https://discord.gg/getfrost"
 }
